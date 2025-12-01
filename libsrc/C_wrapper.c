@@ -29,7 +29,7 @@
 #include <Windows.ui.notifications.h>
 #include <notificationactivationcallback.h>
 #endif
-#include "include/ToastLib.h"
+#include "ToastLib.h"
 
 #pragma comment(lib, "ole32.lib")
 #pragma comment(lib, "uuid.lib")

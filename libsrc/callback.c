@@ -30,7 +30,7 @@
 #include <Windows.ui.notifications.h>
 #include <notificationactivationcallback.h>
 #endif
-#include "include/ToastLib.h"
+#include "ToastLib.h"
 
 /*
  * The following is the memory layout used for all local objects
